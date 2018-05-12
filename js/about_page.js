@@ -5,4 +5,3 @@ var f1 = function (chaine) {
 f1("Sadri");
 
 import('../css/app.less');
-//import('../css/bootstrap.css');

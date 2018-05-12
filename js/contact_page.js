@@ -5,4 +5,3 @@ var f2 = function (chaine) {
 f2("Ela & Lina");
 
 import('../css/app.less');
-//import('../css/bootstrap.css');
